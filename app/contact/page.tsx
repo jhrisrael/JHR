@@ -40,7 +40,7 @@ export default function ContactPage() {
 
         <p className="text-[0.9375rem] text-gray-600 mb-7">
           Interested in one of our Jerusalem properties or looking for something
-          specific? Leave your details and a broker will reach out.
+          specific? Leave your details and a broker will reach out
         </p>
 
         <section className="flex justify-center">
